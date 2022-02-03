@@ -12,6 +12,6 @@ public class TestDemoClass {
     @Test
     public void testAddToY(){
         test1.addToY(4);
-        assertEquals(test1.x, 4);
+        assertEquals(test1.y, 4);
     }
 }
